@@ -1,7 +1,13 @@
 # RubyGuide
 Guide to the ruby syntax
 ## Variables 
-## Data Typea
+```ruby 
+greeting = 'Hi'
+```
+
+## Data Type
+String 
+
 ## Control flow
 ## Collections 
 ## Comparison operators 
